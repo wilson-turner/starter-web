@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ### Something else
 
-more fun stuff here
+section about something else
 
 #### Deployment
 
